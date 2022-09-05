@@ -1,7 +1,19 @@
-### Hi there 👋
+## Hi there, I'm Sashen Jayathilaka! 👋
+<!--🔭 Student at Sri Lanka Technological Campus -->
 
+<div align="center">
+  <a href="https://github.com/SashenJayathilaka">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reactdeveloper22&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactdeveloper22&layout=compact"/>
+</div>
+  
+  
+  
+
+  
+  
 <!--
-**reactdeveloper22/reactdeveloper22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SashenJayathilaka/SashenJayathilaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
