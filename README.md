@@ -69,7 +69,7 @@
 <p><a href="https://www.buymeacoffee.com/reactdeveloper22"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="reactdeveloper22" /></a><a href="https://ko-fi.com/reactdeveloper22"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="reactdeveloper22" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashenjayathilaka&layout=compact&theme=nightowl" alt=reactdeveloper22 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reactdeveloper22&layout=compact&theme=nightowl" alt=reactdeveloper22 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=reactdeveloper22&show_icons=true&locale=en&theme=nightowl" alt="reactdeveloper22" /></p>
 
